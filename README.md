@@ -31,22 +31,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/Farsky/itw-cbtw">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80" />
   </a>
 
-<h3 align="center">Keyword Occurrence Counter</h3>
+<h3 align="center">Keyword Occurrence Locator</h3>
 
   <p align="center">
-    Counter for keyword occurrence in search engines
+    Locate and highlight for keyword occurrences in search engines' results
     <br />
     <a href="https://github.com/Farsky/itw-cbtw"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Farsky/itw-cbtw">View Demo</a>
     ·
-    <a href="https://github.com/Farsky/itw-cbtw/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Farsky/itw-cbtw/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Farsky/itw-cbtw/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
   </p>
 </div>
 
@@ -119,6 +117,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* [Visual Studio Code](https://code.visualstudio.com/)
 * npm
   ```sh
   npm install npm@latest -g
@@ -197,7 +196,7 @@ Project Link: [https://github.com/Farsky](https://github.com/Farsky)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
